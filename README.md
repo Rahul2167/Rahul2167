@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-#💻 Java Full Stack Developer | Software Developer
+💻 Java Full Stack Developer | Software Developer
 
 I'm a passionate Java Full Stack Developer with professional experience building scalable and user-friendly web applications. I enjoy developing end-to-end solutions using Java, Spring Boot, Spring Security, React.js, PostgreSQL, REST APIs, Docker, and AWS.
 
 I have hands-on experience designing secure backend services, developing responsive frontend applications, integrating RESTful APIs, implementing JWT-based authentication, and working with modern software development practices.
 
-#🚀 What I Build <br>
+🚀 What I Build <br>
 Full Stack Web Applications
 RESTful APIs & Microservices
 Secure Authentication & Authorization (JWT)
@@ -14,12 +14,12 @@ Responsive React.js Applications
 Database-Driven Applications
 AI-Powered Web Solutions
 
-#📌 Featured Projects <br>
+📌 Featured Projects <br>
 🏦 Digital Recurring Deposit System – A secure FinTech platform with JWT authentication, role-based access, digital passbooks, AI chatbot, Docker, and AWS deployment.
 🎬 Movie Ticket Booking System – A BookMyShow-style application with movie management, seat booking, food ordering, user/admin dashboards, and secure authentication.
 🤖 Career Ascent AI – An AI-powered platform featuring Resume Analysis, Mock Interviews, Resume Builder, Career Roadmaps, Skill Gap Analysis, and an AI Career Assistant.
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
 
 Languages: Java, SQL
 Backend: Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs, Microservices
