@@ -6,14 +6,14 @@ I'm a passionate Java Full Stack Developer with professional experience building
 
 I have hands-on experience designing secure backend services, developing responsive frontend applications, integrating RESTful APIs, implementing JWT-based authentication, and working with modern software development practices.
 
-🚀 What I Build
+🚀 What I Build <br>
 Full Stack Web Applications
 RESTful APIs & Microservices
 Secure Authentication & Authorization (JWT)
 Responsive React.js Applications
 Database-Driven Applications
 AI-Powered Web Solutions
-📌 Featured Projects
+📌 Featured Projects <br>
 🏦 Digital Recurring Deposit System – A secure FinTech platform with JWT authentication, role-based access, digital passbooks, AI chatbot, Docker, and AWS deployment.
 🎬 Movie Ticket Booking System – A BookMyShow-style application with movie management, seat booking, food ordering, user/admin dashboards, and secure authentication.
 🤖 Career Ascent AI – An AI-powered platform featuring Resume Analysis, Mock Interviews, Resume Builder, Career Roadmaps, Skill Gap Analysis, and an AI Career Assistant.
