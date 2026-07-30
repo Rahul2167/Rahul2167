@@ -1,5 +1,31 @@
 # 💫 About Me:
 
+💻 Java Full Stack Developer | Software Developer
+
+I'm a passionate Java Full Stack Developer with 2.2+ years of professional experience building scalable and user-friendly web applications. I enjoy developing end-to-end solutions using Java, Spring Boot, Spring Security, React.js, PostgreSQL, REST APIs, Docker, and AWS.
+
+I have hands-on experience designing secure backend services, developing responsive frontend applications, integrating RESTful APIs, implementing JWT-based authentication, and working with modern software development practices.
+
+🚀 What I Build
+Full Stack Web Applications
+RESTful APIs & Microservices
+Secure Authentication & Authorization (JWT)
+Responsive React.js Applications
+Database-Driven Applications
+AI-Powered Web Solutions
+📌 Featured Projects
+🏦 Digital Recurring Deposit System – A secure FinTech platform with JWT authentication, role-based access, digital passbooks, AI chatbot, Docker, and AWS deployment.
+🎬 Movie Ticket Booking System – A BookMyShow-style application with movie management, seat booking, food ordering, user/admin dashboards, and secure authentication.
+🤖 Career Ascent AI – An AI-powered platform featuring Resume Analysis, Mock Interviews, Resume Builder, Career Roadmaps, Skill Gap Analysis, and an AI Career Assistant.
+🛠️ Tech Stack
+
+Languages: Java, SQL
+Backend: Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs, Microservices
+Frontend: React.js, HTML5, CSS3, Bootstrap, JavaScript
+Database: PostgreSQL, MySQL
+Cloud & Tools: AWS, Docker, Git, GitHub, Maven, Gradle, Postman, Swagger, JUnit, Mockito
+
+🌱 I'm continuously learning new technologies and enjoy solving real-world software engineering challenges.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulrp46) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-potdar-rp2167) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rahul21674646) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulpotdar2167@gmail.com) 
