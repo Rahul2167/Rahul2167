@@ -2,7 +2,7 @@
 
 💻 Java Full Stack Developer | Software Developer
 
-I'm a passionate Java Full Stack Developer with 2.2+ years of professional experience building scalable and user-friendly web applications. I enjoy developing end-to-end solutions using Java, Spring Boot, Spring Security, React.js, PostgreSQL, REST APIs, Docker, and AWS.
+I'm a passionate Java Full Stack Developer with professional experience building scalable and user-friendly web applications. I enjoy developing end-to-end solutions using Java, Spring Boot, Spring Security, React.js, PostgreSQL, REST APIs, Docker, and AWS.
 
 I have hands-on experience designing secure backend services, developing responsive frontend applications, integrating RESTful APIs, implementing JWT-based authentication, and working with modern software development practices.
 
